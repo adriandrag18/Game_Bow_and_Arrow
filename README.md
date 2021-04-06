@@ -1,2 +1,2 @@
 # Tema1
- 
+ OpenGL
